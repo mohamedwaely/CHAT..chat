@@ -1,3 +1,17 @@
+# Real-Time Chat App
+This is a real-time chat application that allows users to communicate with each other in a seamless and interactive manner. With this app, users can send messages instantly and engage in conversations with other users in real time.
+
+## Features
+- **Real-time messaging:** Experience fast and responsive messaging with real-time updates.
+- **User authentication:** Securely authenticate users and ensure privacy within conversations.
+- **Online presence indicators:** Know when other users are online and available for chat.
+- **Message history:** View the chat history and easily scroll through previous messages.
+- **Multimedia support:** Share images and other media files within the chat.
+- **Search for other users:** Search for other users by user name and communicate with them.
+
+## Technologies Used
+ HTML, CSS, JavaScript, React.js, Firebase.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
